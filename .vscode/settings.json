@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/Users/user/.local/share/virtualenvs/sellenium_practice-LSB1tKaX/bin/python",
+    "python.formatting.provider": "black"
+}
